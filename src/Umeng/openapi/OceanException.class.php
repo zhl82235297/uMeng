@@ -2,7 +2,7 @@
 
 namespace Umeng\openapi;
 
-class OceanException extends RuntimeException {
+class OceanException extends \RuntimeException {
 	private $errorCode;
 	function __construct($message = null, $code = 0) {
 		parent::__construct ( $message, $code );

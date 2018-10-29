@@ -10,6 +10,7 @@ use Umeng\openapi\SyncAPIClient;
 use Umeng\uapp\UmengUappGetActiveUsersParam;
 use Umeng\uapp\UmengUappGetActiveUsersResult;
 use Illuminate\Support\Facades\Log;
+use Umeng\openapi\OceanException;
 
 /**
  * Umeng统计数据接口查询类
