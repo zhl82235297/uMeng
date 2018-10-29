@@ -1,0 +1,21 @@
+{
+    "name": "umeng/umeng",
+    "description": "This is a packagist for umeng",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "zhl",
+            "email": "zhl@lldsp.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "php": ">=7.0.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "UMeng\\": "src/"
+        }
+    }
+}
