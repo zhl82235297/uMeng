@@ -1,5 +1,5 @@
 {
-    "name": "umeng/umeng",
+    "name": "uLiang/umeng",
     "description": "This is a packagist for umeng",
     "type": "library",
     "license": "MIT",
@@ -15,7 +15,7 @@
     },
     "autoload": {
         "psr-4": {
-            "UMeng\\": "src/"
+            "Uliang\\": "src/"
         }
     }
 }
