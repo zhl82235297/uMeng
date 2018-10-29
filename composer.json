@@ -15,7 +15,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Uliang\\": "src/"
+            "Umeng": "src/Umeng/"
         }
     }
 }
